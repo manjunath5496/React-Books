@@ -49,6 +49,43 @@
 </tr>
 </tbody>
 </table>
+</br>
+
+<div class="toctitle" dir="ltr" lang="en">
+<h2 id="mw-toc-heading">Contents</h2>
+<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Basic_usage"><span class="toctext">Basic usage</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Notable_features"><span class="toctext">Notable features</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Components"><span class="toctext">Components</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Functional_components"><span class="toctext">Functional components</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Class-based_components"><span class="toctext">Class-based components</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Virtual_DOM"><span class="toctext">Virtual DOM</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Lifecycle_methods"><span class="toctext">Lifecycle methods</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#JSX"><span class="toctext">JSX</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Architecture_beyond_HTML"><span class="toctext">Architecture beyond HTML</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#React_Hooks"><span class="toctext">React Hooks</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Rules_of_Hooks"><span class="toctext">Rules of Hooks</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Custom_Hooks"><span class="toctext">Custom Hooks</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Common_idioms"><span class="toctext">Common idioms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Use_of_the_Flux_architecture"><span class="toctext">Use of the Flux architecture</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Future_development"><span class="toctext">Future development</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#History"><span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#Licensing"><span class="toctext">Licensing</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Books"><span class="toctext">Books</span></a></li>
+</ul>
 
 
 
