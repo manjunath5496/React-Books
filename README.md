@@ -1,3 +1,10 @@
+<p><strong>React</strong>&nbsp;(also known as&nbsp;<strong>React.js</strong>&nbsp;or&nbsp;<strong>ReactJS</strong>) is a&nbsp;<a title="JavaScript library" href="https://en.wikipedia.org/wiki/JavaScript_library">JavaScript library</a>&nbsp;for building&nbsp;<a class="mw-redirect" title="User interfaces" href="https://en.wikipedia.org/wiki/User_interfaces">user interfaces</a>. It is maintained by&nbsp;<a title="Facebook" href="https://en.wikipedia.org/wiki/Facebook">Facebook</a>&nbsp;and a community of individual developers and companies.</p>
+<p>React can be used as a base in the development of&nbsp;<a title="Single-page application" href="https://en.wikipedia.org/wiki/Single-page_application">single-page</a>&nbsp;or mobile applications. However, React is only concerned with rendering data to the&nbsp;<a title="Document Object Model" href="https://en.wikipedia.org/wiki/Document_Object_Model">DOM</a>, and so creating React applications usually requires the use of additional libraries for&nbsp;<a title="State management" href="https://en.wikipedia.org/wiki/State_management">state management</a>&nbsp;and routing.&nbsp;<a title="Redux (JavaScript library)" href="https://en.wikipedia.org/wiki/Redux_(JavaScript_library)">Redux</a>&nbsp;and React Router&nbsp;are respective examples of such libraries.</p>
+
+
+
+
+
 </br>
 <h2 id= "Books">Books </h2>
 
